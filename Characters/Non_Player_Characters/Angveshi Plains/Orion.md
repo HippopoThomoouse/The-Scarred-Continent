@@ -5,3 +5,5 @@ tags:
   - Org/Naimans
 OrgRole: Clan Leader
 ---
+
+![[orion.png|500]]

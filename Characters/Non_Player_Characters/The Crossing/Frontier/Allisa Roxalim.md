@@ -5,4 +5,4 @@ tags:
 CountryRole: Diplomat
 ---
 
--[[Eshreek Kingdom]] ambassador to [[The Realm of The Crossing]]
+-[[Countries/Eshreek Kingdom]] ambassador to [[The Realm of The Crossing]]

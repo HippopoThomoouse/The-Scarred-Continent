@@ -22,6 +22,6 @@ Player: Rudi
 - Other pirates
 ## Backstory
 - **HE DOESN’T KNOW THIS YET AS HE WAS ORPHANED FROM BIRTH**
-- He comes from the green belt along the river of life. His parents were taken from him by the [[Eshreek Kingdom]]. He was found alone at 4.8 years old by [[The Lady]]
+- He comes from the green belt along the river of life. His parents were taken from him by the [[Countries/Eshreek Kingdom]]. He was found alone at 4.8 years old by [[The Lady]]
 
 ## Story

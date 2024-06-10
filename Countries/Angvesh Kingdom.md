@@ -15,3 +15,6 @@ SORT
 	choice(Role = "Noble", "5",
 	"other")))))
 ```
+
+# Info
+Empire that used to spawl across the entire [[Angvesh Plains]] until about 5 years ago when it fell.
