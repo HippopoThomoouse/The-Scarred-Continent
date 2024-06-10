@@ -1,0 +1,5 @@
+- Card that proves you are a resident of [[Places/The Crossing/Frontier]]
+	- You can freely enter/leave and live in the city of [[Places/The Crossing/Frontier]]
+- Allows for free travel across all bridges on [[The Crossing]]
+- Enables you to open a business along [[The Crossing]]. 
+	- You are eligible for new business grants 
