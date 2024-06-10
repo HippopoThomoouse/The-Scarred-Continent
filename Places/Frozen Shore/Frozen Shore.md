@@ -1,0 +1,1 @@
+Northern & Cold on especially cold winters an ice bridge appears to a continent to the north. This causes raiders to cross an pillage northern [[Kalgar]]

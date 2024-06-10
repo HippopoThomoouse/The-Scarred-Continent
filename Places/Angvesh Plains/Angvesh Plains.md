@@ -1,0 +1,1 @@
+Sprawling plains located on the south west of Kalgar. Once home to the Angvesh Empire before its collapse. Now it is overrun by roaming centaur factions and sporadic groups of Angvesh remnants/refugees, Tabaxi and Yuan-Ti.
