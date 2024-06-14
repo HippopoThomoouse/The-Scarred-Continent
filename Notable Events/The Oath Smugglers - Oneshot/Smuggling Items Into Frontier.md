@@ -8,15 +8,25 @@
 #### Overland
 They can travel across the islands that make up crossing and attempt to make it past each bridge one by one.
 ##### Dangers
-- Refugees gangs without foreigner cards
-- Racist Guards
-- Monsters
+| Roll    | Danger                      |
+| ------- | --------------------------- |
+| 1       | [[Encounters/Refugee Gang]] |
+| 2       | [[Racist Guard Troop]]      |
+| 4, 5, 6 | Safe                        |
+| 7, 8    | [[Land Monsters]]           |
+| 9, 10   | Safe                        |
+-
 #### Oversea - The Scar
 They can charter boats from the small port on the other side of the [[Sword Bridge]] or [[Brandon Newist]] can provide them with a Skiff they can use to attempt to make the journey
 ##### Dangers
-- Pirates
-- Coast Guard 
-- Monsters - sea creatures that somehow got past the crossing (Whispers)
+| Roll    | Danger                                |
+| ------- | ------------------------------------- |
+| 1       | [[Pirate Attack]]                     |
+| 2, 3    | Safe                                  |
+| 4, 5, 6 | Sea Monsters: [[Shoal of Whispers]],  |
+| 7, 8    | Safe                                  |
+| 9, 10   | [[Encounters/Coast guard]]            |
+
 #### Oversea - The Southern Ocean
 ##### Dangers
 - Massive fuck off sea creatures
