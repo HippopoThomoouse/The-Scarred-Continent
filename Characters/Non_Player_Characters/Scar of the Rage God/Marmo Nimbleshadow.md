@@ -6,4 +6,4 @@ OrgRole: First Mate
 ---
 - Swears a lot
 - Very grumpy
-- Constantly swore at: [[Seamus 'Fly-boy']]
+- Constantly swore at: [[Seamus]]

@@ -18,7 +18,7 @@ TABLE
 	CountryRole AS Role, 
 	regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS "Location"
 FROM 
-	#Country/RealmOfTheCrossing
+	#Country/Realm-of-the-Crossing
 WHERE 
 	contains(file.folder, "Non_Player_Characters") OR contains(file.folder, "Player_Controlled_Characters")
 SORT 

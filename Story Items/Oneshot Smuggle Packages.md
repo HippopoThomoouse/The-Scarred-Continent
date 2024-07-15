@@ -9,7 +9,7 @@ Locked.
 Apparently it contains a series of oath stones that bind people to ensure they help out with this endeavour. 
 ### Small Sack
 Seems empty. However always contains takes up a certain volume inside of your bag. 
-## What it Actually is
+## What It Actually Is
 
 ### Scroll case
 1. Instruction manual written by [[Lord Kari Ellstrum]]. It details how to activate and safely travel through his teleportation nodes.

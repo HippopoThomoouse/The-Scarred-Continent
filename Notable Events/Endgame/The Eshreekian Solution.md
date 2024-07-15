@@ -1,0 +1,1 @@
+- The [[Eshreek Kingdom]] fires their special weapon. Causing everyone on the left side of the continet to become a drone completely submissive the the leaders and nobility 
